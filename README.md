@@ -22,5 +22,5 @@ This is a WordPress/WooCommerce-based e-commerce website developed to showcase p
 This project demonstrates my WordPress development and e-commerce website building skills.
 
 ## Developer
-JAzz N
+Jalpa Chavda
 WordPress Developer
